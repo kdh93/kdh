@@ -2,7 +2,7 @@ fixed effect model
 
 mixed effect model
 
-![image-20211022114721155](C:\Users\KDH\AppData\Roaming\Typora\typora-user-images\image-20211022114721155.png)
+![image-20211022114721155](img/image-20211022114721155.png)
 
 
 
@@ -16,3 +16,4 @@ nested 모형
 
 hierarchy 구조
 
+   
